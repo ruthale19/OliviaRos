@@ -1,6 +1,6 @@
 # Proyecto Olivia Ros
 
-Proyecto versión Desktop y mobile con Bootstrap.
+Proyecto versión Desktop y Mobile con Bootstrap.
 
 ## Mockup del Proyecto
 
